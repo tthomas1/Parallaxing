@@ -71,7 +71,6 @@
     <Content Include="Resources\beach.jpg" />
     <Content Include="Resources\clouds.jpg" />
     <Content Include="Resources\golden.jpg" />
-    <Content Include="Resources\images.jpg" />
     <Content Include="Index.html" />
     <Content Include="Scripts\jquery.min.js" />
     <Content Include="Scripts\parallax.min.js" />
