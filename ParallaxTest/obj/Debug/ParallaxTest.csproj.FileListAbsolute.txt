@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\ParallaxTest\ParallaxTest\bin\ParallaxTest.dll.config
+D:\VisualStudioProjects\ParallaxTest\ParallaxTest\bin\ParallaxTest.dll
+D:\VisualStudioProjects\ParallaxTest\ParallaxTest\bin\ParallaxTest.pdb
+D:\VisualStudioProjects\ParallaxTest\ParallaxTest\obj\Debug\ParallaxTest.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\ParallaxTest\ParallaxTest\obj\Debug\ParallaxTest.dll
+D:\VisualStudioProjects\ParallaxTest\ParallaxTest\obj\Debug\ParallaxTest.pdb
